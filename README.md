@@ -1,4 +1,4 @@
-# CSCI 1300 Final Project: Vigenère cipher
+# CSCI 1300 Final Project: Vigenère Cipher
 
 * **Instructor:** Dr. Michael E. Cotterell
 * **Semester:** Spring 2021
